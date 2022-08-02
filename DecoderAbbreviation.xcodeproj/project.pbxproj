@@ -24,7 +24,7 @@
 		CEA3DEA82898B8AC004C6030 /* VariationFormsAcronym.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA3DEA72898B8AC004C6030 /* VariationFormsAcronym.swift */; };
 		CEA3DEAF2898C7D0004C6030 /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA3DEAE2898C7D0004C6030 /* UIViewController.swift */; };
 		CEA3DEB12898C86B004C6030 /* NetworkServiceFakeImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA3DEB02898C86B004C6030 /* NetworkServiceFakeImpl.swift */; };
-		CEA3DEB928998A65004C6030 /* VariationFormsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA3DEB828998A65004C6030 /* VariationFormsCell.swift */; };
+		CEA3DEBB28998DA7004C6030 /* VariationFormsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA3DEBA28998DA7004C6030 /* VariationFormsCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,7 +66,7 @@
 		CEA3DEA72898B8AC004C6030 /* VariationFormsAcronym.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariationFormsAcronym.swift; sourceTree = "<group>"; };
 		CEA3DEAE2898C7D0004C6030 /* UIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
 		CEA3DEB02898C86B004C6030 /* NetworkServiceFakeImpl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkServiceFakeImpl.swift; sourceTree = "<group>"; };
-		CEA3DEB828998A65004C6030 /* VariationFormsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VariationFormsCell.swift; path = ../../../../../.Trash/VariationFormsCell.swift; sourceTree = "<group>"; };
+		CEA3DEBA28998DA7004C6030 /* VariationFormsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariationFormsCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,7 +188,7 @@
 			isa = PBXGroup;
 			children = (
 				CEA3DEA72898B8AC004C6030 /* VariationFormsAcronym.swift */,
-				CEA3DEB828998A65004C6030 /* VariationFormsCell.swift */,
+				CEA3DEBA28998DA7004C6030 /* VariationFormsCell.swift */,
 			);
 			path = VariationFormsAcronym;
 			sourceTree = "<group>";
@@ -339,7 +339,7 @@
 				CEA3DE692898725E004C6030 /* DecoderAcronymsViewController.swift in Sources */,
 				CEA3DE9E28988A21004C6030 /* Acronyms.swift in Sources */,
 				CEA3DEA82898B8AC004C6030 /* VariationFormsAcronym.swift in Sources */,
-				CEA3DEB928998A65004C6030 /* VariationFormsCell.swift in Sources */,
+				CEA3DEBB28998DA7004C6030 /* VariationFormsCell.swift in Sources */,
 				CEA3DE652898725E004C6030 /* AppDelegate.swift in Sources */,
 				CEA3DE952898733E004C6030 /* NetworkRequest.swift in Sources */,
 				CEA3DE672898725E004C6030 /* SceneDelegate.swift in Sources */,
